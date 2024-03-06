@@ -12,7 +12,7 @@ public class Arrays {
 		
 		final byte Numero = 6; //Constante a usar 
 		int k = 0; //contador de proposito general
-		
+		int a = 1;
 		//Definimos los objetos 
 		int[] a1_enteros1;
 		char[] a1_caracteres1;
